@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44752413, g: 0.4974823, b: 0.57531667, a: 1}
+  m_IndirectSpecularColor: {r: 0.16864398, g: 0.2117182, b: 0.2904927, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -131,7 +131,7 @@ PrefabInstance:
     - target: {fileID: 3420459070483028583, guid: 8487b7be486fb4a02b52ff919bd73163,
         type: 3}
       propertyPath: m_Name
-      value: Cube (3)
+      value: Cube 4 - Slippery
       objectReference: {fileID: 0}
     - target: {fileID: 3420459070483028579, guid: 8487b7be486fb4a02b52ff919bd73163,
         type: 3}
@@ -372,13 +372,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 720934567}
-  m_LocalRotation: {x: 0.38686195, y: 0.23715408, z: -0.10365937, w: 0.8850709}
+  m_LocalRotation: {x: 0.39287743, y: 0.23644301, z: -0.105271205, w: 0.8824172}
   m_LocalPosition: {x: 0, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 47.22, y: 30, z: 0}
+  m_LocalEulerAnglesHint: {x: 48, y: 30, z: 0}
 --- !u!1 &1051144374
 GameObject:
   m_ObjectHideFlags: 0
@@ -734,7 +734,7 @@ PrefabInstance:
     - target: {fileID: 3420459070483028583, guid: 8487b7be486fb4a02b52ff919bd73163,
         type: 3}
       propertyPath: m_Name
-      value: Cube (2)
+      value: Cube 3 - Bouncy
       objectReference: {fileID: 0}
     - target: {fileID: 3420459070483028579, guid: 8487b7be486fb4a02b52ff919bd73163,
         type: 3}
@@ -901,7 +901,7 @@ PrefabInstance:
     - target: {fileID: 3420459070483028583, guid: 8487b7be486fb4a02b52ff919bd73163,
         type: 3}
       propertyPath: m_Name
-      value: Cube (1)
+      value: Cube 2 - Default
       objectReference: {fileID: 0}
     - target: {fileID: 3420459070483028579, guid: 8487b7be486fb4a02b52ff919bd73163,
         type: 3}
@@ -1024,7 +1024,7 @@ PrefabInstance:
     - target: {fileID: 3420459070483028583, guid: 8487b7be486fb4a02b52ff919bd73163,
         type: 3}
       propertyPath: m_Name
-      value: Cube
+      value: Cube 1 - No Physic Material
       objectReference: {fileID: 0}
     - target: {fileID: 3420459070483028579, guid: 8487b7be486fb4a02b52ff919bd73163,
         type: 3}
