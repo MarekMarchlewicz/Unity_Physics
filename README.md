@@ -4,7 +4,7 @@ This repository was part of the training delivered for Singapore Unity Developer
 It covers the most common scenarios:
 
 ## 1 Basics
-![Alt text](Gifs/1 Basics.gif?raw=true "Basics")
+![Alt text](/1 Basics.gif?raw=true "Basics")
 Setup Rigidbodies, Colliders, how to apply force and use different Physcis settings likegravity.
 
 ## 2 Physic Materials
